@@ -28,3 +28,7 @@
     background-color: #ccc;
     clear: both;
 }
+
+#about #main{
+    width: 940px;
+}
